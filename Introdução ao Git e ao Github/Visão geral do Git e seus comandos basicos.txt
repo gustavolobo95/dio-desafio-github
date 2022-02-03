@@ -1,0 +1,21 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O que é o Git?
+O Git é um Sistema de Controle de Versão, que tem como principal função o versionamento de codigo remotamente. Ele foi criado pelo engenheiro de software Linus Torvalds, o mesmo criador do Linux.
+
+Estes sistemas de controle possuem a função de registrar quaisquer alterações feitas em cima de um código, armazenando essas informações e permitindo que, caso seja necessário, um(a) programador(a) possa regredir a versões anteriores de uma aplicação de modo simples e rápido.
+
+Este tipo de sistema também simplifica muito o processo de compartilhamento de um projeto com um time, por exemplo, ou com outros(as) programadores(as).
+
+O que é o Git Bash?
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos Basicos do Git:
+Init: este comando dá origem a um repositório novo, local ou remoto, ou reinicializa um repositório já existente;
+Clone: este comando clona o código de um repositório para sua manipulação em outro ambiente;
+Commit: este comando move os arquivos da state area para um repositório local;
+Add: este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
+Push: este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo;
+Pull: ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+Merge: este comando serve para unir arquivos alterados ao arquivo original de um projeto. Em outras palavras, é ele quem une os branchs as commits.
+Log: este comando permite a visualização do histórico de commits de um arquivo ou usuário, ou o acesso de uma versão específica.
